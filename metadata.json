@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ahmed Elgohary | متجر أزياء وملابس شبابية عصرية",
+  "description": "الموقع الرسمي لعلامة Ahmed Elgohary للأزياء والملابس العصرية والفاخرة. اكتشف أحدث كولكشن من الهوديز، الجواكت، والتيشرتات بتصميم استثنائي وجودة فائقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

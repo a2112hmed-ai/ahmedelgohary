@@ -1,0 +1,18 @@
+{
+  "number": "48699529410",
+  "info": {
+    "error": "(0) Missing or invalid default region."
+  },
+  "abuse": {
+    "spam_reports": 2,
+    "is_flagged": false,
+    "source": []
+  },
+  "api": {
+    "valid": true,
+    "country": "غير معروف",
+    "carrier": "غير معروف",
+    "type": "غير معروف",
+    "is_mobile": false
+  }
+}
